@@ -10,7 +10,7 @@ const Post = () => {
       <Row>
         <Col>
           <div style={{ textAlign: "center" }}>
-            <Link to={"/"}>Mozia</Link>
+            <Link to={"/"}>Instagram</Link>
           </div>
         </Col>
       </Row>

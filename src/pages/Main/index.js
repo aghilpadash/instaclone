@@ -15,7 +15,7 @@ const Main = () => {
               backgroundColor: "white",
             }}
           >
-            <Link to={"/"}>Mozia</Link>
+            <Link to={"/"}>Instagram</Link>
           </div>
         </Col>
       </Row>
